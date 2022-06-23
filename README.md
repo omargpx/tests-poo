@@ -1,3 +1,4 @@
 # tests-poo
 
-> OPP C# ExamFinal
+> OPP C# ExamFinal  (.NET 6.0)
+
